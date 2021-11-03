@@ -1,0 +1,19 @@
+{
+  "name": "airplane-seating-algo",
+  "version": "1.0.0",
+  "description": "Airplane Seating Algorithm",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "JS"
+  ],
+  "author": "Aditya Bhardwaj",
+  "license": "MIT",
+  "dependencies": {
+    "linebyline": "^1.3.0",
+    "readline": "^1.3.0"
+  }
+}
